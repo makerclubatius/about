@@ -44,3 +44,10 @@ http://news.indiana.edu/releases/iu/2015/11/maker-space-launch.shtml
 IU researchers get grant to study growing 'makers movement' | 2015-09-04 | Indianapolis Business Journal | IBJ.com
 http://www.ibj.com/articles/54762-iu-researchers-get-grant-to-study-growing-makers-movement
 
+## Other Online Accounts and Webpages
+
+* Email: Maker Club at IUS <makerclubatius@gmail.com>
+* Facebook: https://facebook.com/makerclubatius
+* Github: https://github.com/makerclubatius
+* Twitter: https://twitter.com/makerclubatius
+* Website: https://grenadiercentral.ius.edu/organization/makerclub
